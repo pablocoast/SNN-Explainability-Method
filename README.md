@@ -1,5 +1,9 @@
 # SNN-Explainability-Method
 
+To download the Master's Thesis
+
+https://drive.google.com/file/d/1hkhsxmnqADeFAclfI6bgZ_3dP5RvVs9R/view?usp=sharing
+
 
 To download the pickle with the image and the embedding values:
 
