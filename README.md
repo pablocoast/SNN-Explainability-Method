@@ -14,6 +14,9 @@ To download the trained decoder:
 
 https://drive.google.com/file/d/1T7iDXvNweoN6KYBnQADTgGfCJFinsq8H/view?usp=sharing
 
+To download SNN trained model:
+
+https://drive.google.com/file/d/15C7yOKEZtyqS0rpRRgidrFpfsUMpPcPx/view?usp=sharing
 
 ### Versions
 
